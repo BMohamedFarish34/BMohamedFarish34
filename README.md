@@ -92,7 +92,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Innovation Solutions — Fresher Engineer &nbsp;|&nbsp; September 2025 &nbsp;|&nbsp; India</b></summary>
+<summary><b>🏢 Innovation Solutions &nbsp;|&nbsp; September 2025 &nbsp;|&nbsp; India</b></summary>
 
 <br/>
 
